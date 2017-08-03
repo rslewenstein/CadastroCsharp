@@ -1,0 +1,14 @@
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\SQLiteMetroUI.exe.config
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\SQLiteMetroUI.exe
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\SQLiteMetroUI.pdb
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\MetroFramework.Design.dll
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\MetroFramework.dll
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\MetroFramework.Fonts.dll
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\System.Data.SQLite.dll
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\bin\Debug\System.Data.SQLite.xml
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\obj\Debug\SQLiteMetroUI.csprojResolveAssemblyReference.cache
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\obj\Debug\SQLiteMetroUI.Properties.Resources.resources
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\obj\Debug\SQLiteMetroUI.csproj.GenerateResource.Cache
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\obj\Debug\SQLiteMetroUI.exe
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\obj\Debug\SQLiteMetroUI.pdb
+c:\users\rafaelsoares\documents\visual studio 2013\Projects\SQLiteMetroUI\SQLiteMetroUI\obj\Debug\SQLiteMetroUI.frmPrincipal.resources
